@@ -18,6 +18,10 @@
   <img loading="lazy" src = "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">          
   <img loading="lazy" src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img loading="lazy" src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img loading="lazy" src = "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img loading="lazy" src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img loading="lazy" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
 
   ## Entre em contato comigo 📫
 
@@ -28,6 +32,6 @@
 ## Estatísticas do GitHub ⚡
 <div>
 <a href="https://github.com/Rafaaraujomacedo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Rafaaraujomacedo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Rafaaraujomacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaaraujomacedo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaaraujomacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
