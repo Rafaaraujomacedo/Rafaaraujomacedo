@@ -10,7 +10,7 @@
 - 🎓 Bacharelado em Ciências Contabeis no ano de 2015. (Anhanguera Educacional)
 - 🎓 Bacharelado em Tecnologia da Informação TI no ano de 2024. (Univesp)
 - 📫 Como entrar em contato comigo: (11) 96889-4243 ou atraves do Linkedin.
-- 📧 ram.cost@hotmail.com
+- 📧 E-Mail: ram.cost@hotmail.com
   
 
   ## Estou Aprendendo 💻
@@ -23,6 +23,11 @@
 
  <div>
  <a href = "https://www.linkedin.com/in/rafamac" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:ram.cost@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
- <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
- </div>
+</div>
+  
+## Estatísticas do GitHub ⚡
+<div>
+<a href="https://github.com/Rafaaraujomacedo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Rafaaraujomacedo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Rafaaraujomacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
